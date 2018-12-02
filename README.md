@@ -1,3 +1,3 @@
-# AI
+# Common Scenarios definition
 
-This repository contains my experiments in AI development
+Project that generates the single scenario which contains common things in other scenarios
