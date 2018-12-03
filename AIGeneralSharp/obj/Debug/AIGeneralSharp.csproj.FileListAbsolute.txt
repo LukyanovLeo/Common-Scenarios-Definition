@@ -1,0 +1,29 @@
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.MainForm.resources
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.Properties.Resources.resources
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csproj.GenerateResource.cache
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csproj.CoreCompileInputs.cache
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\AIGeneralSharp.exe.config
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\AIGeneralSharp.exe
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\AIGeneralSharp.pdb
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\Dapper.dll
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\Dapper.xml
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csproj.CopyComplete
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.exe
+C:\Users\Венди\source\repos\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.pdb
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\AIGeneralSharp.exe.config
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\AIGeneralSharp.exe
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\AIGeneralSharp.pdb
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\Dapper.dll
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\Dapper.xml
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csprojAssemblyReference.cache
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.MainForm.resources
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.Properties.Resources.resources
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csproj.GenerateResource.cache
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csproj.CoreCompileInputs.cache
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.csproj.CopyComplete
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.exe
+C:\Users\Венди\Desktop\Алл\1_2 Мага\Скайнет\AIGeneralSharp\AIGeneralSharp\obj\Debug\AIGeneralSharp.pdb
